@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/colorPicker_React_app/static/css/main.ffdc12b1.chunk.css",
+    "main.js": "/colorPicker_React_app/static/js/main.4e7e75c9.chunk.js",
+    "main.js.map": "/colorPicker_React_app/static/js/main.4e7e75c9.chunk.js.map",
+    "runtime-main.js": "/colorPicker_React_app/static/js/runtime-main.7b51bd8f.js",
+    "runtime-main.js.map": "/colorPicker_React_app/static/js/runtime-main.7b51bd8f.js.map",
+    "static/js/2.5c8af6bf.chunk.js": "/colorPicker_React_app/static/js/2.5c8af6bf.chunk.js",
+    "static/js/2.5c8af6bf.chunk.js.map": "/colorPicker_React_app/static/js/2.5c8af6bf.chunk.js.map",
+    "static/js/3.ce96c2d2.chunk.js": "/colorPicker_React_app/static/js/3.ce96c2d2.chunk.js",
+    "static/js/3.ce96c2d2.chunk.js.map": "/colorPicker_React_app/static/js/3.ce96c2d2.chunk.js.map",
+    "index.html": "/colorPicker_React_app/index.html",
+    "static/css/main.ffdc12b1.chunk.css.map": "/colorPicker_React_app/static/css/main.ffdc12b1.chunk.css.map",
+    "static/js/2.5c8af6bf.chunk.js.LICENSE.txt": "/colorPicker_React_app/static/js/2.5c8af6bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b51bd8f.js",
+    "static/js/2.5c8af6bf.chunk.js",
+    "static/css/main.ffdc12b1.chunk.css",
+    "static/js/main.4e7e75c9.chunk.js"
+  ]
+}
